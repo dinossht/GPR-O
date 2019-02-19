@@ -1,0 +1,26 @@
+* Implement 
+    * fix zero time adjust after horizontal removal to aline
+    * plot tops of signals in a interval
+    * Hilbert transform - check downloaded library
+    * FIR filter / Band pass filtering in scan and time axis 
+    * Matching filter
+    * pulse compression
+    * window trimming
+    * Delay (multiply) and sum beamforming
+    * Background removal
+    * Migration methods: Migration is a tool used in GPR processing to get an accurate picture of underground targets. It involves geometric repositioning of return signals to 
+    * wave front reconstruction - see code already started
+    * kalman filter
+    * yule walker
+    * instantaneous amplitude
+
+* checkout matgpr
+* checkout stolt_fk_mig.m
+* checkout add ons
+    MATLAB Simulations for Radar Systems Design 
+        http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.709.9645&rep=rep1&type=pdf
+    phased array toolbox
+    Modeling and Simulating Radar Systems Using MATLAB and Simulink 
+    Joint deconvolution for ultrasound imaging
+
+* https://drive.google.com/file/d/1CCLTwCbHH3Kk1l3X4duPXCoOkv5tRT7k/view
